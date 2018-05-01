@@ -14,10 +14,12 @@ I've left some boilerplate below for you.
 
 body {
 
+
 }
 
 article {
-
+	width:100%;
+font-size: 1.2em;
 }
 
 h1 {
@@ -25,5 +27,6 @@ h1 {
 }
 
 img {
-
+width:100%;
+max-width:100%;
 }
