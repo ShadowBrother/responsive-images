@@ -21,7 +21,20 @@ module.exports = function(grunt) {
             suffix: ,
             quality:
             */
-          }]
+			name:'small',
+			width:320,
+			seperator: '_'
+          },
+		  {
+			  name:'medium',
+			  width:640,
+			  seperator: '_'
+		  },
+		  {
+			  name:'large',
+			  width:1280,
+			  seperator: '_'
+		  }]
         },
 
         /*
