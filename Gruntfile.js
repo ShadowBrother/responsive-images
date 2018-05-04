@@ -22,27 +22,33 @@ module.exports = function(grunt) {
             quality:
             */
 			
-			width:640
+			width:640,
+			quality:75
 		  },
 		  {
 			  
-			width:768
+			width:768,
+			quality:75
 		  },
 		  {
 			  
-			width:1024
+			width:1024,
+			quality:50
 		  },
 		  {
 			  
-			width:1366
+			width:1366,
+			quality:50
 		  },
 		  {
 			  
-			width:1600
+			width:1600,
+			quality:35
 		  },
 		  {
 			  
-			width:1920
+			width:1920,
+			quality:24
 		  }]
         },
 
