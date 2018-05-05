@@ -15,7 +15,18 @@ I've left some boilerplate below for you.
 body {
 
 }
-
+footer{
+	max-width:320px;
+	margin:auto;
+	text-align:center;
+}
+.zocial-icons{
+	max-width:11em;
+	margin:auto;
+}
+.zocial-icons a{
+	
+}
 article {
 	
 	
