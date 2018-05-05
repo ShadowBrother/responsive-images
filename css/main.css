@@ -27,7 +27,7 @@ article {
 	
 }
 
-h1,h2 {
+h1,h2,figcaption {
 	text-align:center;
 	color:green;
 }
